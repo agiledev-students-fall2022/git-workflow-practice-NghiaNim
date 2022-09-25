@@ -6,3 +6,7 @@ As I scrape the internet through my search engine, using keywords like "AI artic
 ## Comment by Ronit
 
 Very useful indeed... will come in handy at all times!
+
+## Comment by Nico (nbg279)
+
+Some very creative workarounds to paywalls, it'll be interesting to see how fast these strategies turn obselete as security and web tracking advance.
